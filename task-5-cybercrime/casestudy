@@ -1,0 +1,15 @@
+# Cybercrime Case Study: UPI Payment Fraud
+
+**What the crime is:** UPI (Unified Payments Interface) fraud occurs when cybercriminals manipulate victims into authorizing a financial transfer under false pretenses. It is a form of social engineering mixed with financial theft.
+
+**How it typically happens:**
+1. **The Hook:** The scammer contacts the victim (often via phone call or WhatsApp), posing as a legitimate entity—such as a buyer on OLX, a bank representative, or a telecom operator. 
+2. **The Manipulation:** The scammer convinces the victim that they need to *receive* money (e.g., an advance payment for a listing, or a cashback reward). 
+3. **The Trap:** The scammer sends a "Collect Request" or a QR code to the victim's UPI app. They falsely claim that entering the UPI PIN is required to *receive* the funds.
+4. **The Execution:** The victim, believing they are accepting a payment, enters their secret UPI PIN. The transaction is authorized, and money is instantly deducted from the victim's account and sent to the scammer.
+
+**Who is usually targeted:**
+College students buying or selling second-hand goods online, elderly individuals unfamiliar with digital interfaces, and people seeking part-time online jobs.
+
+**Consequences:**
+Victims suffer immediate financial loss, which is often difficult to recover due to the instantaneous nature of UPI transfers. It also leads to severe emotional distress and a loss of trust in digital financial systems.
